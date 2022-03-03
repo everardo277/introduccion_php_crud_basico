@@ -1,2 +1,2 @@
 # introduccion_php_crud_basico
-introduccion a php y creacion de un crud basico
+curso de introduccion a php y creación de un crud básico de la plataforma udemy
